@@ -183,13 +183,13 @@
 
 ## 🖥️ 화면 소개
 
-### 1. 핀볼 계좌
+### 1. 메인 페이지
 
 <table>
     <tr>
         <td align="center" width="200">
-            <h5>핀볼 계좌 채우기</h5>
-            <img src="./img/gifs/핀볼채우기.gif" alt="핀볼채우기" width="100%" />  
+            <h5>메인 페이지</h5>
+            <img src="./images/main_1.png" alt="main_1" width="100%" />  
         </td>
         <td align="center" width="200">
             <h5>핀볼 계좌 이체</h5>
