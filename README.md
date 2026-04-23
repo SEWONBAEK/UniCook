@@ -274,33 +274,25 @@
     </tr>
 </table>
 
-### 4. 금융 학습
+### 4. 구매내역
 
 <table>
     <tr>
         <td align="center" width="200">
-            <h5>GPT 학습</h5>
-            <img src="./img/gifs/GPT학습.gif" alt="GPT학습" width="200" />  
+            <h5>구매내역 화면</h5>
+            <img src="./images/purchase.png" alt="" width="200" />  
         </td>
         <td align="center" width="200">
-            <h5>금융 퀴즈</h5>
-            <img src="./img/gifs/금융퀴즈.gif" alt="금융퀴즈" width="200" />  
-        </td> 
-        <td align="center" width="200">
-            <h5>계좌 연결</h5>
-            <img src="./img/gifs/커스텀볼.gif" alt="커스텀볼" width="200" />
+            <h5>구매내역 분석</h5>
+            <img src="./images/purchase_recommend.png" alt="" width="200" />  
         </td>
     </tr>
     <tr>
       <td align="center">
-        <div>✔ ChatGPT를 활용한 금융 학습</div>  
+        <div>✔ 구매내역을 전체, 1개월, 3개월 필터화</div>
       </td>
       <td align="center">
-        <div>✔ 금융 퀴즈로 포인트 획득</div>  
-      </td>
-      <td align="center">
-        <div>✔ 획득한 포인트로 공 구매</div>
-        <div>✔ 구매한 공 선택으로 스킨 적용</div>
+        <div>✔ 구매한 상품과 유사한 상품을 분석 및 시각화</div>
       </td>
     </tr>
 </table>
