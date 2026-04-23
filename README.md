@@ -201,11 +201,11 @@
         </td>
         <td align="center" width="200">
             <h5>하단 비회원 분석</h5>
-            <img src="./images/main_2_recommend1" alt="비회원 분석" width="100%" />
+            <img src="./images/main_2_recommend1.png" alt="비회원 분석" width="100%" />
         </td>
         <td align="center" width="200">
             <h5>하단 회원 분석</h5>
-            <img src="./images/main_2_recommend2" alt="회원 분석" width="100%" />
+            <img src="./images/main_2_recommend2.png" alt="회원 분석" width="100%" />
         </td>
     </tr>
     <tr>
