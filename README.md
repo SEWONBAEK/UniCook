@@ -192,9 +192,13 @@
             <img src="./images/main_1.png" alt="main_1" width="100%" />  
         </td>
         <td align="center" width="200">
-            <h5>핀볼 계좌 이체</h5>
-            <img src="./img/gifs/핀볼보내기.gif" alt="핀볼보내기" width="100%" />  
+            <h5>시간대별 분석</h5>
+            <img src="./images/main_1_recommend.png" alt="핀볼보내기" width="100%" />  
         </td> 
+        <td align="center" width="200">
+            <h5>가계부</h5>
+            <img src="./img/gifs/가계부.gif" alt="가계부" width="100%" />
+        </td>
         <td align="center" width="200">
             <h5>가계부</h5>
             <img src="./img/gifs/가계부.gif" alt="가계부" width="100%" />
