@@ -169,7 +169,7 @@
 
 ## 💾 ERD
 <a name="erd"></a>
-<img src="./img/erdFinball.png">
+<img src="./images/unicook_ERD.png">
 
 <div align="right"><a href="#tableContents">목차로 이동</a></div>
 
