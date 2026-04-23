@@ -2,7 +2,7 @@
 <br/>
 
 <div align="center">
-  <img src="./images/UNICOOK.PNG" width="80%">
+  <img src="./images/UNICOOK.png" width="80%">
   <h3>AI를 활용한 개인 맞춤형 추천 상품</h3>
 </div>
 
