@@ -210,14 +210,19 @@
     </tr>
     <tr>
       <td align="center">
-        <div>✔ 핀볼 서비스에 등록된 계좌에서 입금</div>
+        <div>✔ 시간대별 추천 상품 화면에 표시</div>
       </td>
       <td align="center">
-        <div>✔ 핀볼 계좌에서 다른 계좌로의 이체</div>
+        <div>✔ 시간대별 분석 내용</div>
       </td>
       <td align="center">
-        <div>✔ 가계부 생성 및 항목 지정</div>
-        <div>✔ 거래 내역에서 항목 선택 시 가계부 반영</div>
+        <div>✔ 구매 빈도와 수량으로 가중치를 계산하여 화면에 표시</div>
+      </td>
+      <td align="center">
+        <div>✔ 전체회원을 대상으로 가중치 점수가 높은 상품 분석 내용 표시</div>
+      </td>
+      <td align="center">
+        <div>✔ 로그인한 회원 대상으로 비슷한 성별, 나이대 회원의 유사도 분석</div>
       </td>
     </tr>
 </table>
