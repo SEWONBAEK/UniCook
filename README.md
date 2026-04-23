@@ -168,14 +168,8 @@
 <!------- ERD 시작 -------->
 
 ## 💾 ERD
-### 핀볼 ERD
-<img src="./img/erdFinball.png">
-
----
-### 마이데이터 ERD
-<img src="./img/erdMydata.png">
-
 <a name="erd"></a>
+<img src="./img/erdFinball.png">
 
 <div align="right"><a href="#tableContents">목차로 이동</a></div>
 
