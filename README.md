@@ -228,39 +228,25 @@
     </tr>
 </table>
 
-### 2. 모임 통장
+### 2. 상세 페이지
 
 <table>
     <tr>
         <td align="center" width="200">
-            <h5>모임 계좌 생성</h5>
-            <img src="./img/gifs/모임계좌생성.gif" alt="모임계좌생성" width="200" />  
+            <h5>상세 페이지 화면</h5>
+            <img src="./images/view.png" alt="상세 페이지" width="200" />  
         </td>
         <td align="center" width="200">
-            <h5>모임 계좌 채우기</h5>
-            <img src="./img/gifs/모임계좌채우기.gif" alt="모임계좌채우기" width="200" />  
-        </td> 
-        <td align="center" width="200">
-            <h5>모임 계좌로 결제</h5>
-            <img src="./img/gifs/모임계좌로결제.gif" alt="모임계좌로결제" width="200" />
-        </td>
-        <td align="center" width="200">
-            <h5>간편 정산</h5>
-            <img src="./img/gifs/간편정산.gif" alt="간편정산" width="200" />
+            <h5></h5>
+            <img src="./images/view_recommend.png" alt="상세 페이지 분석" width="200" />  
         </td>
     </tr>
     <tr>
       <td align="center">
-        <div>✔ 모임 계좌 생성 시 계좌 이름과 정산 방식 설정</div>
+        <div>✔ 현재 페이지의 제품과 유사한 상품 화면에 표시</div>
       </td>
       <td align="center">
-        <div>✔ 모임 계좌의 채우기 버튼을 통해 채우기</div>
-      </td>
-      <td align="center">
-        <div>✔ 핀볼 정산을 선택했을 시, 게임을 통해 정산 진행</div>
-      </td>
-      <td align="center">
-        <div>✔ 모임 계좌가 없거나, 간편하게 정산을 하기 위한 서비스</div>
+        <div>✔ 현재 페이지 상품과 유사한 제품을 분석 및 Heatmap으로 시각화</div>
       </td>
     </tr>
 </table>
