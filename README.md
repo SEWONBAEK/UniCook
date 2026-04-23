@@ -193,15 +193,19 @@
         </td>
         <td align="center" width="200">
             <h5>시간대별 분석</h5>
-            <img src="./images/main_1_recommend.png" alt="핀볼보내기" width="100%" />  
+            <img src="./images/main_1_recommend.png" alt="시간대별 분석" width="100%" />  
         </td> 
         <td align="center" width="200">
-            <h5>가계부</h5>
-            <img src="./img/gifs/가계부.gif" alt="가계부" width="100%" />
+            <h5>메인 페이지 하단</h5>
+            <img src="./images/main_2.png" alt="메인하단" width="100%" />
         </td>
         <td align="center" width="200">
-            <h5>가계부</h5>
-            <img src="./img/gifs/가계부.gif" alt="가계부" width="100%" />
+            <h5>하단 비회원 분석</h5>
+            <img src="./images/main_2_recommend1" alt="비회원 분석" width="100%" />
+        </td>
+        <td align="center" width="200">
+            <h5>하단 회원 분석</h5>
+            <img src="./images/main_2_recommend2" alt="회원 분석" width="100%" />
         </td>
     </tr>
     <tr>
