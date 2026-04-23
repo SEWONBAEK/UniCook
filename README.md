@@ -16,7 +16,7 @@
 
 ## 🔎 목차
 
-1. <a href="#subject" style="text-decoration:none; color:beige;">🎯 주제</a>
+1. <a href="#subject">🎯 주제</a>
 1. <a href="#mainContents">⭐️ 주요 기능</a>
 1. <a href="#systemArchitecture">⚙ 시스템 아키텍쳐</a>
 1. <a href="#skills">🛠️ 기술 스택</a>
@@ -38,7 +38,7 @@
 
 **주요 기능**
 
-
+<h5>전처리</h5>
 - **Numpy**, **Pandas**를 이용한 전처리
 - **Scikit-learn(SVD)** 
 - 
