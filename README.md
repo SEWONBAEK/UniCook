@@ -2,8 +2,8 @@
 <br/>
 
 <div align="center">
-  <img src="./img/logo.PNG" width="80%">
-  <h3>자산의 시각화를 제공하는 인터넷 전문 은행</h3>
+  <img src="./images/UNICOOK.PNG" width="80%">
+  <h3>AI를 활용한 개인 맞춤형 추천 상품</h3>
 </div>
 
 ## ⌨️ 기간
