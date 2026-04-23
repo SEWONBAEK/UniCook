@@ -237,7 +237,7 @@
             <img src="./images/view.png" alt="상세 페이지" width="200" />  
         </td>
         <td align="center" width="200">
-            <h5></h5>
+            <h5>상세 페이지 분석 및 시각화</h5>
             <img src="./images/view_recommend.png" alt="상세 페이지 분석" width="200" />  
         </td>
     </tr>
@@ -251,41 +251,25 @@
     </tr>
 </table>
 
-### 3. 타행
+### 3. 장바구니
 
 <table>
     <tr>
         <td align="center" width="200">
-            <h5>카드 연결</h5>
-            <img src="./img/gifs/카드연결.gif" alt="카드연결" width="200" />  
+            <h5>장바구니 화면</h5>
+            <img src="./images/cart.png" alt="" width="200" />  
         </td>
         <td align="center" width="200">
-            <h5>카드 결제</h5>
-            <img src="./img/gifs/카드결제.gif" alt="카드결제" width="200" />  
-        </td> 
-        <td align="center" width="200">
-            <h5>계좌 연결</h5>
-            <img src="./img/gifs/계좌연결.gif" alt="계좌연결" width="200" />
-        </td>
-        <td align="center" width="200">
-            <h5>계좌 결제</h5>
-            <img src="./img/gifs/계좌결제.gif" alt="계좌결제" width="200" />
+            <h5>장바구니 분석</h5>
+            <img src="./images/cart_recommend.png" alt="" width="200" />  
         </td>
     </tr>
     <tr>
       <td align="center">
-        <div>✔ 대외계 접근을 위해 주민번호 인증</div>
-        <div>✔ 대외계 서버에 존재하는 카드 정보 조회 및 등록</div>  
+        <div>✔ 장바구니 담은 상품 비동기 통신(AJAX)을 통한수량 및 가격 변경</div>
       </td>
       <td align="center">
-        <div>✔ 카드상세 페이지에서 카드 결제</div>
-      </td>
-      <td align="center">
-        <div>✔ 대외계 접근을 위해 주민번호 인증</div>
-        <div>✔ 대외계 서버에 존재하는 계좌 정보 조회 및 등록</div>
-      </td>
-      <td align="center">
-        <div>✔ 대외계 서버에 있는 계좌로 결제</div>
+        <div>✔ 장바구니에 담은 상품과 유사한 상품을 분석 및 시각화</div>
       </td>
     </tr>
 </table>
