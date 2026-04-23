@@ -112,7 +112,7 @@
 
 <a name="systemArchitecture"></a>
 
-<img src="./img/architecture.png">
+<img src="./images/unicook_System Architecture.png">
 
 - FinBall 서버 : 핀볼 서비스 
 - Mydata 서버 : 은행 공동망(대외계)
