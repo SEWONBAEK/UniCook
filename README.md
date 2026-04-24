@@ -151,6 +151,10 @@
 
 ### 📈 Visualization
 
+![Chart.js](https://img.shields.io/badge/chart.js-F5788D?style=for-the-badge&logo=chart.js&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?style=flat&logo=chart.js&logoColor=white)
+![ApexCharts](https://img.shields.io/badge/ApexCharts-008FFB?style=for-the-badge&logo=apexcharts&logoColor=white)
+![ApexCharts](https://img.shields.io/badge/ApexCharts-008FFB?style=flat&logo=apexcharts&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![Seaborn](https://img.shields.io/badge/Seaborn-%234479A1.svg?style=for-the-badge&logo=Seaborn&logoColor=white)
 ---
